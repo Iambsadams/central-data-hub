@@ -1,2 +1,2 @@
-# central-dara-hub
+# central-data-hub
 Where it all starts
